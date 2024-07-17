@@ -3,3 +3,5 @@ Making some changes in the local machine.
 Adding some more changes
 
 Lorem ipsum ifftryeyey yryeuueue ururujnajaj
+
+Adding new changes without knowing that some changes were in the github already.
